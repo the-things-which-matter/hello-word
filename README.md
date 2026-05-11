@@ -1,23 +1,28 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I created a simple Hello World program using Python to practice basic programming and understand how code is written, executed, and managed using GitHub.
 
-{Provide a description of your software}
+The purpose of this software is to demonstrate how a basic program can output text to the screen and how development tools like VS Code and GitHub are used together in a real software workflow.
 
-{Describe your purpose for creating this software.}
+This program prints “Hello World” to the console when executed.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video](https://youtu.be/WQgXMQwoTlE)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 
-{Describe the programming language that you used}
+This software was developed using:
+- Visual Studio Code as the code editor
+- Python as the programming language
+- Git and GitHub for version control and project hosting
+
+Python was used because it is simple, readable, and commonly used for learning programming basics.
+
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.python.org )
+* [Web Site Name](https://www.w3schools.com/python)
